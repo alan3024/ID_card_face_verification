@@ -20,7 +20,7 @@ import (
 )
 
 // 请将 '你自己的AppCode' 替换为你的 AppCode
-const defaultAppCode = "7ab1bf2978fd47a9a38e426240386be8"
+const defaultAppCode = "xxxxxxxxxxxx"
 
 type appState struct {
 	selectedFilePath string
